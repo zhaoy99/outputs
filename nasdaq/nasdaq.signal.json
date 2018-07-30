@@ -1,1 +1,1 @@
-{"holdings": ["ALGN", "AMZN", "NFLX", "ILMN", "IDXX"], "sell": [], "buy": [], "date": "2018-07-27"}
+{"holdings": ["ALGN", "AMZN", "NFLX", "ILMN", "IDXX"], "sell": ["ILMN"], "buy": ["SHPG"], "date": "2018-07-30"}
