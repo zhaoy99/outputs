@@ -1,1 +1,1 @@
-{"holdings": ["ALGN", "AMZN", "ORLY", "ESRX", "REGN"], "sell": [], "buy": [], "date": "2018-10-09"}
+{"holdings": ["ALGN", "AMZN", "ORLY", "ESRX", "REGN"], "sell": ["ALGN", "AMZN", "ORLY", "ESRX", "REGN"], "buy": [], "date": "2018-10-10"}
