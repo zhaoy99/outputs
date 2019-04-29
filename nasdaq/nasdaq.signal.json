@@ -1,1 +1,1 @@
-{"holdings": ["SBUX", "XLNX", "MELI", "CDNS", "CTRP"], "sell": [], "buy": [], "date": "2019-04-26"}
+{"holdings": ["SBUX", "XLNX", "MELI", "CDNS", "CTRP"], "sell": ["CTRP"], "buy": ["QCOM"], "date": "2019-04-29"}
